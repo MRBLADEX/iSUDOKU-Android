@@ -1,5 +1,7 @@
 # iSUDOKU-Android v1.0.4
 
+右侧Releases处下载apk ->
+
 ## 游戏简介
 
 - 经典9*9数独游戏。
