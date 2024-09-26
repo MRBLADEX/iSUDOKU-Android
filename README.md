@@ -28,23 +28,23 @@
 - 游戏主界面：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/main.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/main.png">
 </div>
 
 - 暂停游戏时隐藏画面：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/pause.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/pause.png">
 </div>
 
 - 左侧菜单：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/drawer.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/drawer.png">
 </div>
 
 - 开启冲突显示功能后：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/conflict.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/conflict.png">
 </div>
