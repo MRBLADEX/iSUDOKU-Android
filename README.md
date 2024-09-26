@@ -52,5 +52,5 @@
 期待您的打赏：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/support_1.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/support_1.jpg">
 </div>
