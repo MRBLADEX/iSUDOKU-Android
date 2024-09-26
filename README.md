@@ -22,3 +22,29 @@
 ## 其他
 
 若玩家有好的建议或发现BUG，欢迎随时联系作者。
+
+## 游戏截图
+
+- 游戏主界面：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/main.png">
+</div>
+
+- 暂停游戏时隐藏画面：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/pause.png">
+</div>
+
+- 左侧菜单：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/drawer.png">
+</div>
+
+- 开启冲突显示功能后：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/intro/conflict.png">
+</div>
