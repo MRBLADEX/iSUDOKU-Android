@@ -15,13 +15,9 @@
 1. 优化了组件百分比适应布局。
 2. 更正了Info窗口的Git地址。
 
-## 待开发
+## 开发计划
 
 1. 游戏内置更新功能正在开发中。
-
-## 其他
-
-若玩家有好的建议或发现BUG，欢迎随时联系作者。
 
 ## 游戏截图
 
@@ -47,4 +43,14 @@
 
 <div align="center">
   <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/conflict.png">
+</div>
+
+## 写在最后
+
+若玩家有好的建议或发现BUG，欢迎随时联系作者。
+
+期待您的打赏：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/support_1.png">
 </div>
