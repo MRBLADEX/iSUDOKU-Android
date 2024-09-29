@@ -1,4 +1,4 @@
-# iSUDOKU-Android v1.0.6
+# iSUDOKU-Android
 
 右侧Releases处下载apk ->
 
@@ -12,6 +12,13 @@
 
 ## 版本说明
 
+### v1.0.7
+
+1. 增加了内置更新功能。
+2. 微调了布局。
+3. 优化了一些逻辑。
+
+### v1.0.6
 1. 优化了组件百分比适应布局。
 2. 更正了Info窗口的Git地址。
 
@@ -24,25 +31,55 @@
 - 游戏主界面：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/main.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/play.jpg">
 </div>
 
 - 暂停游戏时隐藏画面：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/pause.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/pause.jpg">
 </div>
 
-- 左侧菜单：
+- 左侧菜单可开关音效、震动以及各种辅助显示功能：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/drawer.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/drawer.jpg">
 </div>
 
-- 开启冲突显示功能后：
+- 开关区域显示：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/conflict.png">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/region_on.jpg">
+</div>
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/region_off.jpg">
+</div>
+
+- 开关相同数字显示：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/same_on.jpg">
+</div>
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/same_off.jpg">
+</div>
+
+- 开关冲突显示：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/conflict_on.jpg">
+</div>
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/conflict_off.jpg">
+</div>
+
+- 开关已用数字弱化显示：
+
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/dull_on.jpg">
+</div>
+<div align="center">
+  <img src="https://github.com/MRBLADEX/iSUDOKU-Android/blob/master/intro/dull_off.jpg">
 </div>
 
 ## 写在最后
